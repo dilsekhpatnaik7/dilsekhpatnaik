@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilsekhpatnaik7
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning DSA and Wen Development
+- 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me dpj020@nist.edu
 
